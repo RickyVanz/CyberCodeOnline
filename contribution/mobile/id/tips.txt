@@ -1,40 +1,40 @@
-// Contains list of short tips used to be displayed in Mobile version
-// one line one tip :)
+// Berisi daftar tips pendek yang muncul di versi mobile saat AFK
+// satu garis satu tip :)
 
-Scrap your items to get Tech Scraps; reverse engineer them to gain PRINTING experience.
-You can sell your items in the [PLAYER MARKET].
-Your crafting ranks cannot exceed your overall LEVEL; don't waste time doing research when you're capped.
-HP regenerates 100% after each battle unless you're in a dungeon!
-You always attack first; use it to your advantage!
-You can repair your damaged equipped gear at the [WEAPON SMITH].
-Your inventory has a storage limit; keep an eye on it or you will lose loot.
-Shields regenerate after you defeat an enemy in a dungeon.
-You can do reverse engineering at the [JOB HUB].
-"Trash" quality equipment is still useful for getting Tech Scraps and gaining PRINTING experience.
-No friends online to help with that dungeon quest? Try sharing your dungeon in the chat!
-Craft Pain Away to recover health between fights in dungeons.
-In the chat terminal, type @ to mention another player.
-Dungeons are a great source for AI Cores and Hash Processors.
-SCAVENGE to find components for crafting ammo and medicine.
-Printing always results in items the same level as your PRINTING RANK.
-Beware of enemies described as tough, angry, or shielded.
-Secret keys are needed to access higher level stations; search dungeons for their fragments!
-There's a tutorial under the 'Profile' tab. Use it often!
-Unequip upgrade modules when switching equipped gear to make them available for the new gear.
-Gear and upgrades "of expansion" increase your inventory size!
-Healing items such as Pain Away Spray heal your teammates as well!
-BTC (bitcoin) in this game isn't redeemable; it's just in-game currency. :'(
-Don't forget to send a thank you to @DexterHuang in chat for making this game!
-You can store excess upgrade modules in High-Quality equipment to save inventory space.
-Dying a lot? Level up your PRINTING RANK to your player level, then print new equipment!
-Feeling faint? Take a break and get some food.
-Don't forget to hydrate yourself!
-Confused about the cache that just fell into your hand? Go to the [MOLECULAR 3D PRINTER] and make some gear.
-Equipment cache comes in 6 rarities: Trash, Common, High Quality, Rare, Legendary, and Epic.
-Did you know you can access the mobile version of the game from your computer? Go to cybercodeonline.com and shrink the browser window!
-We also have a desktop version of this game at cybercodeonline.com!
-Remember the CCO mantra: Hit, Heal, Hit.
-Level up a skill at the [COMMERCIAL AREA] when you have time to spare.
+Bongkar item mu untuk mendapatkan kepingan teknologi; gunakan untuk mendapatkan pengalaman PRINTING.
+Kau bisa menjual item mu di [PLAYER MARKET].
+Rank Crafting mu tidak bisa lebih dari LEVEL mu; jangan buang waktu berlatih saat sudah mencapai cap level.
+HP mu meregenerasi 100% setiap pertarungan, kecuali ketika didalam dungeon.
+kau selalu menyerang duluan; gunakan itu sebaik mungkin!
+kau bisa memperbaiki item mu yang rusak di [WEAPON SMITH].
+Inventory mu memiliki limitasi; perhatikan itu atau kau kehilangan loot.
+Shield meregenasi kembali meski didalam dungeon.
+kau bisa melatih kemampuanmu di [JOB HUB].
+Peralatan berkualitas "Sampah" masih bisa digunakan untuk kepingan teknologi dan pengalaman PRINTING.
+Temanmu Offline dan tak bisa membantumu melakukan misi Dungeon? coba share misi Dungeon mu di chat!
+Buat item Pain Away untuk mengisi HP ditengah pertarungan.
+di Terminal Chat, gunakan @ untuk menyebut nama player lain.
+Dungeon adalah tempat yang baik untuk mendapatkan AI Cores dan Hash Processor.
+gunakanlah fitur SCAVENGE untuk mendapatkan komponen membuat peluru dan obat.
+Printing selalu menghasilkan item dengan level yang sama dengan PRINTING RANK mu.
+hati-hati dengan musuh yang memiliki nama Angry, Tough, atau Shielded.
+Kunci Rahasia dibutuhkan untuk mengakses level station yang lebih tinggi; cari pecahan kuncinya di dungeon!
+ada bantuan tutorial dibawah tab "Profile", gunakan itu sebaik mungkin!
+lepas Module Upgrade didalam item mu sebelum mengganti nya agar tersedia untuk item baru.
+peralatan dengan upgrade "of expansion" meningkatkan ukuran inventori mu!
+item untuk heal seperti Pain Away juga menyembuhkan teman timmu!
+Bitcoin didalam game ini tidak bisa ditukarkan; itu hanya mata uang didalam game. :'(
+jangan lupa untuk berterima kasih pada @DexterHuang untuk pembuatan game ini!
+kau bisa menyimpan Module Upgrade didalam item berkualitas tinggi mu untuk menghemat tempat inventorimu.
+Kalah terus? naikkan level PRINTING RANK mu dan buat equipment baru!
+merasa lelah? istirahatlah dan makan makanan dulu!
+Jangan lupa untuk minum air!
+Bingung bagaimana cara menggunakan Cache yang kau dapatkan? pergi ke [MOLECULAR 3D PRINTER] buat peralatan baru.
+Equipment Cache terdiri dari 6 kualitas: Sampah, Biasa, Kualitas Tinggi, Langka, Legendaris, and Epik.
+apa kau tahu kau bisa memainkan game ini di komputermu? pergi ke cybercodeonline.com dan kecilkan browsermu!
+kita juga punya versi PC game ini di cybercodeonline.com!
+ingatlah mantra CCO: Serang, Heal, Serang.
+latih skill mu di [COMMERCIAL AREA] jika kau punya waktu luang.
 Like the game? Be sure to leave a review on the iOS app store or the Google Play store!
 Studies show that mobs with the "Agile" tag grant more EXP.
 Not leveling as fast as you like? Try dungeon diving! (You get 2x more exp)
